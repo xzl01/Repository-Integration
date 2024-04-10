@@ -1,5 +1,5 @@
 # Required
-message: |
+message: chromium
   Integrated for V23-Release
 # Not required, now default is V23-Release
 milestone: V23-Release
